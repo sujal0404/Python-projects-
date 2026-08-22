@@ -131,7 +131,8 @@ python_knowledge = {
     "what is name main": "__name__ == '__main__' checks whether a Python file is being run directly. Example: if __name__ == '__main__': main().",
     "what is global": "global allows a function to modify a global variable. Example: global x.",
     "what is enumerate": "enumerate() gives both the index and value while looping. Example: for i, name in enumerate(names): print(i, name).",
-    "what are list comprehensions": "List comprehensions create lists in a short way. Example: squares = [x*x for x in range(5)]."
+    "what are list comprehensions": "List comprehensions create lists in a short way. Example: squares = [x*x for x in range(5)].",
+    "bye": "Thank You For Using Me,Have A Nice Day..👋"
 }
 # function
 def get_respone_of_BOT(userQUESTION):
